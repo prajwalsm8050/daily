@@ -17,7 +17,7 @@ assignees: ''
 
     If any heading is not applicable, put `NA`.
     For additional information, create an extra H2 heading and add extra info.
--->
+--> Community
 
 ### Description
 
@@ -27,7 +27,7 @@ assignees: ''
 
     If you want to request an update in current implementation, please mention and describe it clearly.
     e.g I would like to request an update for ...
--->
+-->just like stackOverflow, Seperate Community for Spring/Spring boot , Angular and Reat etc etc..
 
 ### Solution
 
